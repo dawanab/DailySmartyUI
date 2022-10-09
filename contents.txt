@@ -1,0 +1,5 @@
+1. Generating Daily Smarty UI Application
+2. Setting Up A Logo Component
+3. Creating Searchbar and Recent Posts Components
+4. Setting Up Redux Form In the SearchBar Component
+5. Setting Up Daily Smarty UI Routes Using React Router Dom
