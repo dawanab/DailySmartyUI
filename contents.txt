@@ -5,3 +5,4 @@
 5. Setting Up Daily Smarty UI Routes Using React Router Dom
 6. Setting Up the Results Component for the Daily Smarty UI
 7. Implementing an HOC Called with Router
+8. Setting Up Redux Thunk and Connecting the Recent Posts Component to Redux
